@@ -216,7 +216,7 @@
                         <h1 class="broken-white">JASMAPALA</h1>
                         <p class="text-white">Jasamarga Pegiat Alam atau <strong>Jasmapala</strong> <br>
                             Merupakan organisasi pegiat alam yang bergerak <br> dibawah naungan Bang <strong>Ari
-                                Setyawan</strong>.
+                                Setyawan </strong>.
                         </p>
                         <div class="d-grid gap-2 d-flex justify-content-center mt-3">
                             <a href="#" class="btn btn-lg text-white" style="background:#3A4D39">Gabung
