@@ -213,7 +213,7 @@
                         <img src="{{ asset('images/jasmapala.jpeg') }}" style="border-radius: 130px; height: 180px;width: 180px;margin-bottom:10px;" alt="Logo">
                     </div>
                     <div class="container text-center">
-                        <h1 class="broken-white">JASMAPALA</h1>
+                        <h1 class="broken-white">JASMAPALA </h1>
                         <p class="text-white">Jasamarga Pegiat Alam atau <strong>Jasmapala</strong> <br>
                             Merupakan organisasi pegiat alam yang bergerak <br> dibawah naungan Bang <strong>Ari
                                 Setyawan </strong>.
